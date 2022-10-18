@@ -17,7 +17,7 @@ Lets be creative this hacktober fest. Get started with contributing to open sour
  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/Aryamanz29/Web-Dev-Ideas/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Aryamanz29/Web-Dev-Ideas?style=for-the-badge" /></a> <a href="https://github.com/Aryamanz29/Web-Dev-Ideas/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Aryamanz29/Web-Dev-Ideas?style=for-the-badge" /></a> 
 
 
-# How Can I Contribute?
+->  # How Can I Contribute?  <-
 
 Don't know how to start of open source and Contribute to our Open Source Project ? Welcome to the world of hacking!
 
