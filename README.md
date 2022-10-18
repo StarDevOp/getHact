@@ -1,4 +1,4 @@
-# Be Creative this Hacktoberfest 2021
+# Be Creative this Hacktoberfest 2022
 Lets be creative this hacktober fest. Get started with contributing to open source.
 
 
@@ -78,6 +78,6 @@ The steps to follow to contribute to any projects:
 
 # ❓ What I have to do?
 
-You can add any codes in any language by creating its respective folder (if already not available).
+Fix the issues in the repo and you can also add codes in any language
 
 ---
