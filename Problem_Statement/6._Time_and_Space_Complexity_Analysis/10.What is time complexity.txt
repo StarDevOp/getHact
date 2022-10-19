@@ -1,0 +1,26 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What is time complexity
+Problem Description:
+What is the time complexity of following code ?
+int sumOfDigits(int n){
+        int sum;
+        if(n < 10){
+            return n;
+        }
+        sum = (n % 10) + sumOfDigits(n / 10);
+        return sum;
+}
+Options:
+0. O(logn) - log is to the base 10 
+1. O(n)
+2. O(n^2)
+3. None of these
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

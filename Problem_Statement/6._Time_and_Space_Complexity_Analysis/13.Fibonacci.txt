@@ -1,0 +1,19 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Fibonacci
+Problem Description:
+The space complexity for finding nth fibonacci number using recursion is :
+Options:
+0. O(n)
+1. O(2^n)
+2. O(log n)
+3. O(n^2)
+4. O(nlogn)
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

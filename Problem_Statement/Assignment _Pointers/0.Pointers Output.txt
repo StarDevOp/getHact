@@ -1,0 +1,28 @@
+@csalgo
+
+Chapter Assignment
+Problem Statement: Pointers Output
+Problem Level: EASY
+Problem Description:
+Find the output :
+#include <iostream>
+using namespace std;
+int main()
+{
+  int arr[] = {4, 5, 6, 7};
+  int *p = (arr + 1);
+  cout << *arr + 9;
+  return 0;
+}
+
+
+0.12
+1.14
+2.13
+3.error
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

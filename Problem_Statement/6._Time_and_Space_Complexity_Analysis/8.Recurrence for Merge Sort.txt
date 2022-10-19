@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Recurrence for Merge Sort
+Problem Description:
+What is the recurrence relation for merge sort :
+Options:
+0. T(n) = 2T(n/2)
+1. T(n) = 2T(n/2) + k
+2. T(n) = 2T(n/2) + O(n)
+3. T(n) = 2T(n/2) + O(log n)
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

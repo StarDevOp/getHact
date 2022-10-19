@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Member function
+Problem Description:
+If a member function does not alter any data in the class, that may be declared as ....................
+Options:
+0. constant member function
+1. private member function
+2. static member function
+3. None
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

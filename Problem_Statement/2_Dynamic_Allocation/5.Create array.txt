@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Create array
+Problem Description:
+Correct statement for creating an integer array of size 5, dynamically -
+Options:
+0. int *arr[] = new int[5];
+1. int *arr = new int[5];
+2. int arr = new int[5];
+3. int *arr[5] = new int;
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

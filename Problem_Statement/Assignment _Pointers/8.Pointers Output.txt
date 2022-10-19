@@ -1,0 +1,31 @@
+@csalgo
+
+Chapter Assignment
+Problem Statement: Pointers Output
+Problem Level: EASY
+Problem Description:
+#include<iostream>
+using namespace std;
+int main()
+{
+  int ***r, **q, *p, i=8;
+  p = &i;
+  (*p)++;
+  q = &p;
+  (**q)++;
+  r = &q;
+  cout<<*p << " " <<**q << " "<<***r;
+  return 0;
+}
+
+
+0.8 8 8
+1.10 10 10
+2.9 10 11
+3.9 10 10
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

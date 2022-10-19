@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Operations for merging
+Problem Description:
+For merging two sorted arrays of size m and n into a sorted array of size m+n, we require operations -
+Options:
+0. O(m * n)
+1. O(m + n)
+2. O(m) if m >= n
+3. O(n) if n > m
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

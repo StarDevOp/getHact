@@ -1,0 +1,26 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Correct Statement
+Problem Description:
+Figure out the correct statement
+class Car{
+    public : 
+    int price;
+};
+
+int main() {
+    Car c; 
+    //Figure out the correct statement to set the price of the car object referred to by c to “10000”
+}
+Options:
+0. c->price = 10000
+1. Car.price = 10000
+2. c.price = 10000; 
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

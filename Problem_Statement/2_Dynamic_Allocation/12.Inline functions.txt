@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Inline functions
+Problem Description:
+Inline functions are useful when ______
+Options:
+0. Function is large with many nested loops
+1. Function has many static variables
+2. Function is small and we want to avoid function call overhead.
+3. None of the above
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

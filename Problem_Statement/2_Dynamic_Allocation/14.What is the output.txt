@@ -1,0 +1,27 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What is the output
+Problem Description:
+#include <iostream>
+using namespace std;
+
+int main(){
+    int p = 5;
+    int const *q = &p;
+    p++;
+    cout << p << endl;
+    return 0;
+}
+Options:
+0. Error
+1. 5
+2. 6
+3. None
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

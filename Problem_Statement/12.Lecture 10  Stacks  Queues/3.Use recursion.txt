@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Use recursion
+Problem Description:
+Which data structure is used for implementing recursion?
+Options:
+0. Queue
+1. Stack
+2. Array
+3. List
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

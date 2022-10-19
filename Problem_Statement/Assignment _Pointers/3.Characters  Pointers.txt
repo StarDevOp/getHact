@@ -1,0 +1,31 @@
+@csalgo
+
+Chapter Assignment
+Problem Statement: Characters  Pointers
+Problem Level: EASY
+Problem Description:
+#include <iostream>
+using namespace std;
+int main()
+{
+  char arr[20];
+  int i;
+  for(i = 0; i < 10; i++) {
+    *(arr + i) = 65 + i;
+  }
+  *(arr + i) = '\0';
+  cout << arr;
+  return 0;
+}
+
+
+0.ABCDEFGHIJ
+1.AAAAAAAAAA
+2.JJJJJJJJ
+3.none of the mentioned
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

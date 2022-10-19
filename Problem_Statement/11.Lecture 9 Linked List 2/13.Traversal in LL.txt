@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Traversal in LL
+Problem Description:
+In doubly linked lists, traversal can be done in ?
+Options:
+0. Only forward direction
+1. Only reverse direction
+2. Both directions
+3. None of the above
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

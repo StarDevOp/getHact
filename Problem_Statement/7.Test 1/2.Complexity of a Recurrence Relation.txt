@@ -1,0 +1,20 @@
+@csalgo
+
+Chapter TEST
+Problem Statement: Complexity of a Recurrence Relation
+Problem Level: EASY
+Problem Description:
+Which one of the following correctly determines the solution of the recurrence relation with T(1) = 1?
+T(n) = 2T(n/2) + Logn
+
+
+0.O(N)
+1.O(NlogN)
+2.O(N^2)
+3.O(log N)
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

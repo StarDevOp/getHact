@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: False statement
+Problem Description:
+Which statement is not true in C++ language ?
+Options:
+0. A public member of a class can be accessed outside the class.
+1. A private member of a class cannot be accessed by the functions of the same class.
+2.  A private member of a class cannot be accessed outside the same class.
+3. None of the above
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

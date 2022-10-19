@@ -1,0 +1,36 @@
+@csalgo
+
+Chapter Assignment
+Problem Statement: Pointers Output
+Problem Level: MEDIUM
+Problem Description:
+int f(int x, int *py, int **ppz) {
+    int y, z;
+    **ppz += 1;
+    z = **ppz;
+    *py += 2;
+    y = *py;
+    x += 3;
+    return x + y + z;
+}
+
+int main() {
+    int c, *b, **a;
+    c = 4;
+    b = &c;
+    a = &b;
+    cout << f(c, b, a);
+    return 0;
+}
+
+
+0.21
+1.18
+2.19
+3.24
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

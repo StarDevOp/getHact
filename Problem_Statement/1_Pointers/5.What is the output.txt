@@ -1,0 +1,20 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What is the output
+Problem Description:
+int a[] = {1, 2, 3, 4};
+int *p = a++;
+cout << *p << endl;
+Options:
+0. 1
+1. 2
+2. Garbage value
+3. Error
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

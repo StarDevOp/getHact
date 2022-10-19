@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Time Complexity
+Problem Description:
+If the number of primary operations of an algorithm that takes an array of size n as input are 3n^2 + 5n. The worst case time complexity of  the algorithm will be ?
+Options:
+0. O(n^3)
+1. O((n^2)*logn)
+2. O(n^2)
+3. O(n)
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

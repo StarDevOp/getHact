@@ -1,0 +1,20 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Address of variable
+Problem Description:
+Which of the following gives the memory address of variable 'b' pointed by pointer 'a' i.e.
+int b = 10;
+int *a = &b;
+Options:
+0. a
+1. *a
+2. &a
+3. address(a)
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Reference Variable
+Problem Description:
+What is the correct syntax of declaring and defining a reference?
+Options:
+0. int a = 10; int &b; b = a;
+1. int a = 10; int &b = a;
+2. int a = 10; int b = &a;
+3. int a = 10; int &b = &a;
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

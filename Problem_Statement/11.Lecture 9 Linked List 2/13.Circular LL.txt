@@ -1,0 +1,22 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Circular LL
+Problem Description:
+Given an unsorted circular linked list, suppose you have reference (or pointer) to its head node only, which of the following operation can be implemented in O(1) time?
+i) Insertion at the front of the linked list
+ii) Insertion at the end of the linked list
+iii) Deletion of the last node of the linked list
+iv) Deletion of the front node of the linked list
+Options:
+0. I and II
+1. I and III
+2. I,II and III 
+3. None
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

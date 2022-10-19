@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Dynamic memory allocation
+Problem Description:
+In CPP, dynamic memory allocation is done using __ operator.
+Options:
+0. calloc()
+1. malloc()
+2. allocate
+3. new
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

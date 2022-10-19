@@ -1,0 +1,27 @@
+@csalgo
+
+Chapter Assignment
+Problem Statement: Pointers Output
+Problem Level: EASY
+Problem Description:
+#include<iostream>
+using namespace std;
+int main() {
+  char st[] = "ABCD";
+  for(int i = 0; st[i] != ‘\0’; i++) {
+     cout << st[i] << *(st)+i << *(i+st) << i[st];
+  }
+  return 0;
+}
+
+
+0.AAAABBBBCCCCDDDD
+1.ABCD
+2.A65AAB66BBC67CCD68DD
+3.Compilation Error
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

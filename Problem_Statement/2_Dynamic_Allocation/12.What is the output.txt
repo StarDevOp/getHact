@@ -1,0 +1,29 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What is the output
+Problem Description:
+What is the output of the following program ?
+#include<iostream>
+using namespace std;
+
+int getValue(int x = 0, int y = 0, int z){  
+    return (x + y + z); 
+}
+
+int main(){
+   cout << getValue(10);
+   return 0;
+}
+Options:
+0. 10
+1. 0
+2. 20
+3. Compilation Error
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

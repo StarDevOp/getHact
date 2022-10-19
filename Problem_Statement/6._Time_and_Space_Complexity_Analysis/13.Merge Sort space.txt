@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Merge Sort space
+Problem Description:
+The space complexity for merge sort is :
+Options:
+0. O(n)
+1. O(n^2)
+2. O(nlogn)
+3. O(log n)
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

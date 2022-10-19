@@ -1,0 +1,29 @@
+@csalgo
+
+Chapter Assignment
+Problem Statement: Pointers Output
+Problem Level: EASY
+Problem Description:
+#include <iostream>
+using namespace std;
+int main()
+{ 
+  char *ptr; 
+  char Str[] = "abcdefg";
+  ptr = Str;
+  ptr += 5;
+  cout << ptr;
+  return 0;
+}
+
+
+0.fg
+1.cdef
+2.defg
+3.abcd
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

@@ -1,0 +1,22 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What is the output
+Problem Description:
+Assume address of 0th index of array ‘b’ is 200. What is the output -
+char b[] = "xyz";
+char *c = &b[0];
+c++;
+cout << c << endl;
+Options:
+0. 201
+1. y
+2. xyz
+3. yz
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

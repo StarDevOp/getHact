@@ -1,0 +1,25 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Fill the output
+Problem Description:
+What is the output of the following program?
+#include <iostream>
+using namespace std;
+
+#define SQUARE(x) x*x
+
+int main(){
+    int x = 36 / SQUARE(6);
+    cout << x;
+
+    return 0;
+}
+Options:
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

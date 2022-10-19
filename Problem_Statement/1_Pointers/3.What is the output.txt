@@ -1,0 +1,21 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What is the output
+Problem Description:
+int a = 7;
+int *c = &a;
+c = c + 1;
+cout  << a << "  " << *c << endl;
+Options:
+0. Garbage_value 7
+1. 7 Garbage_value
+2. 8 8
+3. 7 7
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

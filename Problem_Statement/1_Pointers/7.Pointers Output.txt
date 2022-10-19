@@ -1,0 +1,22 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Pointers Output
+Problem Description:
+What will be the output ?
+ char ch = 'a';
+ char* ptr = &ch;
+ ch++;
+ cout << *ptr << endl;
+Options:
+0. a
+1. b
+2. 97
+3. 98
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

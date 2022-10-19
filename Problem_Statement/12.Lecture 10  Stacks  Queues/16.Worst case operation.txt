@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Worst case operation
+Problem Description:
+In linked list implementation of queue, if only front pointer is maintained, which of the following operation take worst case time (i.e. O(n) )?
+Options:
+0. Insertion from rear
+1. Deletion from front
+2. Both
+3. None
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

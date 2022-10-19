@@ -1,0 +1,42 @@
+@csalgo
+
+Chapter Assignment
+Problem Statement: Pointers Output
+Problem Level: EASY
+Problem Description:
+#include<iostream>
+using namespace std;
+void swap (char *x, char *y) 
+{
+  char *t = x;
+  x = y;
+  y = t;
+}
+
+int main()
+{
+   char *x = "geeksquiz";
+   char *y = "geeksforgeeks";
+   char *t;
+   swap(x, y);
+   cout<<x << " "<<y;
+   t = x;
+   x = y;
+   y = t; 
+   cout<<" "<<x<< " "<<y;
+   return 0;
+}
+
+Note: On executing this code, a warning will appear: "ISO C++ forbids converting a string constant into 'char*'. " Ignore the warning and then print the expected output.
+
+
+0.geeksforgeeks geeksquiz geeksforgeeks geeksquiz
+1.geeksquiz geeksforgeeks geeksquiz geeksforgeeks
+2.geeksquiz geeksforgeeks geeksforgeeks geeksquiz
+3.Compiler Error
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

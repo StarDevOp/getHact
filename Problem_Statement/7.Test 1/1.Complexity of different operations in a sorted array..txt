@@ -1,0 +1,19 @@
+@csalgo
+
+Chapter TEST
+Problem Statement: Complexity of different operations in a sorted array.
+Problem Level: EASY
+Problem Description:
+Which of the following operations is not O(1) for an array of sorted data. You may assume that array elements are distinct.
+
+
+0.Find the ith largest element
+1.Delete an element
+2.Find the ith smallest element
+3.All of the above
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

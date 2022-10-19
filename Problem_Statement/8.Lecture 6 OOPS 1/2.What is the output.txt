@@ -1,0 +1,32 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What is the output
+Problem Description:
+What will be the output of the following program ?
+#include <iostream>
+using namespace std;
+
+class Shape{
+    public : 
+    int height;
+    int width;
+};
+
+int main() {
+    Shape *s = new Shape();
+    s -> height = 1;
+    cout << s -> height;
+}
+Options:
+0. Error
+1. 0
+2. 1
+3. GarbageValue
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

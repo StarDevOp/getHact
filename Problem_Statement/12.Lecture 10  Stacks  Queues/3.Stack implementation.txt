@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Stack implementation
+Problem Description:
+Which of the following operation take worst case i.e. linear time (O(n)) in the array implementation of stack?
+Options:
+0. Push
+1. Pop
+2. IsEmpty
+3. None
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

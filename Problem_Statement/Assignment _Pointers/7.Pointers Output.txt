@@ -1,0 +1,41 @@
+@csalgo
+
+Chapter Assignment
+Problem Statement: Pointers Output
+Problem Level: EASY
+Problem Description:
+#include <iostream>
+using namespace std;
+void Q(int z)
+{
+  z += z;
+  cout<<z << " ";
+}
+
+void P(int *y) 
+{
+  int x = *y + 2;
+  Q(x);
+  *y = x - 1; 
+  cout<<x << " ";
+}
+
+int main()
+{
+  int x = 5;
+  P(&x);
+  cout<<x;
+  return 0;
+}
+
+
+0.7 6 14
+1.14 7 5
+2.14 7 6
+3.14 6 5
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

@@ -1,0 +1,28 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Pointers Output
+Problem Description:
+What will be the output ?
+void increment(int **p){
+  (**p)++;
+}
+
+int main(){
+ int num = 10;
+ int *ptr = &num;
+ increment(&ptr);
+ cout << num << endl;
+}
+Options:
+0. 10
+1. 11
+2. Error
+3. None of these
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

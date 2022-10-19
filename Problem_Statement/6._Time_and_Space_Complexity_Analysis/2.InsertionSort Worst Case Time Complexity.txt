@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: InsertionSort Worst Case Time Complexity
+Problem Description:
+Worst case time complexity of insertion sort is ?
+Options:
+0. O(n)
+1. O(n^2)
+2. O(nlogn)
+3. O(logn)
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

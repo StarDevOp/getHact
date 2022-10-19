@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: void pointer
+Problem Description:
+Void pointer can point to which type of objects ?
+Options:
+0. int
+1. double
+2. float
+3. All
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

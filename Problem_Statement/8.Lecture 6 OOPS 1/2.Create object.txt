@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Create object
+Problem Description:
+Which of the following is/are a valid statement(s) to create an  object of class Bird in C++ ?
+Options:
+0. Bird b = new Bird;
+1. Bird *b = new Bird;
+2. Bird b; 
+3. new Bird b;
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

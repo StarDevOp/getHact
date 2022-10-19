@@ -1,0 +1,19 @@
+@csalgo
+
+Chapter TEST
+Problem Statement: Recurrence Relation for Tower of Hanoi Problem
+Problem Level: EASY
+Problem Description:
+The recurrence relation capturing the optimal execution time of the Towers of Hanoi problem with n discs is :
+
+
+0.T(n) = 2T(n − 2) + 2
+1.T(n) = 2T(n − 1) + n
+2.T(n) = 2T(n/2) + 1
+3.T(n) = 2T(n − 1) + 1
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

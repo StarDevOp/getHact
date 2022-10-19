@@ -1,0 +1,21 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What will be the output ?
+Problem Description:
+int *ptr = 0;
+int a = 10;
+*ptr = a;
+ cout << *ptr << endl;
+Options:
+0. 10
+1. 0
+2. Error
+3. None of these
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

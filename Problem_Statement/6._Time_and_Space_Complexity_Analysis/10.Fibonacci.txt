@@ -1,0 +1,24 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Fibonacci
+Problem Description:
+What is the time complexity of following code for calculating nth fibonacci number
+long fib(int n){
+    if(n == 0 || n == 1){
+         return n;
+    }
+    return fib(n - 1) + fib(n - 2);
+}
+Options:
+0. O(n)
+1. O(n^2)
+2. O(2^n)
+3. O(n^3)
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

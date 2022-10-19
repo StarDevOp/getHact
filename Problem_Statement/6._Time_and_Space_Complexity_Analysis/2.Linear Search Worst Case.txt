@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Linear Search Worst Case
+Problem Description:
+The Worst case(s) occur in linear search algorithm when -
+Options:
+0. Item is somewhere in the middle of the array
+1. Item is the last element in the array
+2. Item is present at first index of the array.
+3.  Item is not in the array at all
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

@@ -1,0 +1,24 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Deallocate memory
+Problem Description:
+How will you free the memory allocated by following program -
+#include <iostream>
+using namespace std;
+
+int main() {
+    int *a = new int;
+}
+Options:
+0. free a;
+1. delete *a;
+2. delete a;
+3. new a;
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

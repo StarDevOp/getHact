@@ -1,0 +1,16 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Fill the output
+Problem Description:
+char s[]= "hello";
+char *p = s;
+cout << s[0] << " " << p[0];
+Options:
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo

@@ -1,0 +1,40 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What is the output
+Problem Description:
+What will be the output of the following code ?
+#include <iostream>
+using namespace std;
+
+class Student{
+    public :
+    char name;
+    int rollNo;
+
+    Student(int num){
+        rollNo = num;
+    }
+
+    void print(){
+        cout << name << " "  <<  rollNo;
+    }
+};
+
+int main() {
+    Student *s = new Student();
+    s -> name = 'A';
+    s -> rollNo = 15;
+    s -> print();
+}
+Options:
+0. GarbageValue 0
+1. GarbageValue 15
+2. Compilation Error
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

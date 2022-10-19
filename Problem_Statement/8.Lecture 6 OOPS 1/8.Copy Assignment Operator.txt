@@ -1,0 +1,37 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Copy Assignment Operator
+Problem Description:
+Consider following piece of code:
+#include<iostream>
+using namespace std;
+
+class Pair{
+      public :
+      int first;
+      int second;
+};
+
+int main(){
+
+      Pair p1;
+      p1.first = 10;
+      p1.second = 20;
+      Pair p2;
+      p2 = p1;
+      cout << p2.first << " " << p2.second << endl;
+}
+
+What will be the output ?
+Options:
+0. 10 20
+1. Error
+2. Garbage_value Garbage_value
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

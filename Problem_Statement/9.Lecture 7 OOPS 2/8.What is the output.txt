@@ -1,0 +1,33 @@
+@csalgo
+
+Assignment Problem
+Problem Name: What is the output
+Problem Description:
+class Student {
+    public :
+
+    int rollNumber;
+
+    static int getRollNumber() {
+        return rollNumber;
+    }
+};
+
+
+int main() {
+    Student s;
+    s.rollNumber = 101;
+    cout << s.getRollNumber() << endl;
+}
+Options:
+0. 101
+1. 0
+2. Compilation Error
+3. Error
+
+
+
+=====Answer=====
+Correct Option: 2
+
+@csalgo

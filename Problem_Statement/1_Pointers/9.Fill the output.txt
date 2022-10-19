@@ -1,0 +1,22 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Fill the output
+Problem Description:
+void fun(int a[]) {
+    cout << a[0] << " ";
+}
+
+int main() {
+    int a[] = {1, 2, 3, 4};
+    fun(a + 1);
+    cout << a[0];
+}
+Options:
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

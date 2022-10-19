@@ -1,0 +1,19 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Copy Constructor
+Problem Description:
+Assume class DEMO. Which of the following statement(s) responsible to invoke copy constructor?
+1. DEMO D2(D1); //  Here D1 is an already created object of class  DEMO
+2. D2 = D1; // Here D1, D2 are already created objects of class DEMO
+Options:
+0. Only 1
+1. Only 2
+2. Both 1 and 2
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

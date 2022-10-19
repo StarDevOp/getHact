@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Linked List Usecase
+Problem Description:
+Linked List are best suited:
+Options:
+0. for relatively permanent collections of data.
+1. for the size of the structure is constantly changing.
+2. for random Access of elements
+3. None of these
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

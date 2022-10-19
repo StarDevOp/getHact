@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Delete array
+Problem Description:
+Correct statement for deallocating the array is -
+Options:
+0. delete [] arr;
+1. delete arr;
+2. delete *arr;
+3. delete [] *arr;
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo

@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Fill the output
+Problem Description:
+Assume memory address of variable ‘a’ is : 200 and a double variable is of size 8 bytes, what will be the output -
+double a = 10.54;
+double *d = &a;
+d = d + 1;
+cout  << d << endl;
+Options:
+
+
+
+=====Answer=====
+Correct Option: 1
+
+@csalgo

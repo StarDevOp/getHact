@@ -1,0 +1,16 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Jagged arrays
+Problem Description:
+Can we create Jagged Arrays in C++ ?
+Options:
+0. Yes
+1. No
+
+
+
+=====Answer=====
+Correct Option: 0
+
+@csalgo
