@@ -5,7 +5,7 @@ Lets be creative this hacktober fest. Get started with contributing to open sour
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-#   <h1 align="center">🚀 Web-Ideas 🚀</h1>    
+#   <h1 align="center">🚀DSA Question 🚀</h1>    
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
