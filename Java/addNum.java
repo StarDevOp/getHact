@@ -6,5 +6,5 @@ class addNum{
 	}
 }
 class Summing{
-
+	int getSun(int x,int y){return 0;}
 }
