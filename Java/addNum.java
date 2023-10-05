@@ -5,3 +5,6 @@ class addNum{
 		System.out.print(getSum(n,m));
 	}
 }
+class Summing{
+
+}
